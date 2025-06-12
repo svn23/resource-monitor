@@ -4,7 +4,7 @@
 [![Shell Script](https://img.shields.io/badge/Bash-Script-blue?logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/)
 ![Platform](https://img.shields.io/badge/Platform-Linux-informational?logo=linux)
 ![Status](https://img.shields.io/badge/Status-Stable-brightgreen)
-[![GitHub stars](https://img.shields.io/github/stars/your-username/resource-monitor.svg?style=social)](https://github.com/your-username/resource-monitor/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/your-username/resource-monitor.svg?style=social)](https://github.com/svn23/resource-monitor/stargazers)
 
 ---
 
